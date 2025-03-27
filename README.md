@@ -66,4 +66,4 @@ This Streamlit application allows users to upload images and engage in a convers
 
 ![Screenshot 1](Results/OCR-2.png)
 
-![Screenshot 1](Results/OCR-3.png)
+
