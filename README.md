@@ -33,14 +33,14 @@ This Streamlit application allows users to upload images and engage in a convers
 
 3.  **Set your Google Cloud API key:**
 
-    Replace `"YOUR_GOOGLE_API_KEY"` in the `main.py` file with your actual API key.
+    Replace `"YOUR_GOOGLE_API_KEY"` in the `ocr.py` file with your actual API key.
 
 ## Usage 🚀
 
 1.  **Run the Streamlit application:**
 
     ```bash
-    streamlit run main.py
+    streamlit run ocr.py
     ```
 
 2.  **Open the application in your browser:**
@@ -62,8 +62,8 @@ This Streamlit application allows users to upload images and engage in a convers
 
 ## Screenshots 📸
 
-![Screenshot 1](screenshot1.png)
-_A screenshot of the application with an uploaded image and a user query._
+![Screenshot 1](Results/OCR-1.png)
 
-![Screenshot 2](screenshot2.png)
-_A 
+![Screenshot 1](Results/OCR-2.png)
+
+![Screenshot 1](Results/OCR-3.png)
